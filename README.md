@@ -1,4 +1,9 @@
 # Electrical-Task-1
+
+| Nama  | Division        | Sub-Division  |
+| ----- | ---------- | ---------- |
+| Fatharanni Faza   | ELC | Electrical Design |
+
 ## ELectrical Remote Control Diagram
 ### Electrical Diagram
 ![ELc drawio](https://github.com/user-attachments/assets/88c3058d-a142-4aeb-99b8-889ba25249a0)
