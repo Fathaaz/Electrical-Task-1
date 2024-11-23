@@ -1,9 +1,9 @@
 # Electrical-Task-1
 ## ELectrical Remote Control Diagram
 ### Electrical Diagram
-![ERC Electrical DIagram drawio](https://github.com/user-attachments/assets/433cfb13-507a-4e3e-a6d1-05902e83d572)
+![ELc drawio](https://github.com/user-attachments/assets/88c3058d-a142-4aeb-99b8-889ba25249a0)
 ### Communication Diagram
-![ERC Communication DIagram drawio](https://github.com/user-attachments/assets/0e14e198-1859-407f-acb7-bf3df2223aa5)
+![Commu  drawio](https://github.com/user-attachments/assets/7052c500-6b4e-4505-b896-3969f69fbddd)
 
 1. Battery: Sumber daya utama yang menyediakan energi untuk seluruh sistem.
 
@@ -73,6 +73,6 @@ Menerima daya langsung dari baterai dan sinyal kontrol dari STM32 kemudian mengi
 17. Thruster: Motor pendorong yang menggerakkan kapal.
 
 18. Cooling System: Sistem pendingin yang menjaga suhu komponen tetap stabil selama operasi.
-Mecakup thermistor dan fan serta dapat juga water cooling yang terhubung ke STM32 kemudian tersambung dengan ESC.
+Mecakup thermistor dan fan serta dapat juga water cooling yang terhubung ke STM32 kemudian tersambung dengan ESC dan engine.
 
 19. Transmitter: Pemberi sinyal kontrol kepada receiver. Dalam hal ini Transmitternya adalah remote control.
