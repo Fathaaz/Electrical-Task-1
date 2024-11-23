@@ -4,7 +4,7 @@
 ![ERC Electrical DIagram drawio](https://github.com/user-attachments/assets/433cfb13-507a-4e3e-a6d1-05902e83d572)
 ### Communication Diagram
 ![ERC Communication DIagram drawio](https://github.com/user-attachments/assets/0e14e198-1859-407f-acb7-bf3df2223aa5)
-```
+
 1. Battery: Sumber daya utama yang menyediakan energi untuk seluruh sistem.
 
 2. Emergency Button (Tombol Darurat): Memungkinkan pemutusan daya dalam keadaan darurat untuk mematikan seluruh sistem dengan cepat.
