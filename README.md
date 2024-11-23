@@ -7,14 +7,11 @@
 
 1. Battery: Sumber daya utama yang menyediakan energi untuk seluruh sistem.
 
-2. Emergency Button (Tombol Darurat): Memungkinkan pemutusan daya dalam keadaan darurat untuk mematikan seluruh sistem dengan cepat.
-Koneksi: Terhubung langsung ke baterai.
+2. Emergency Button (Tombol Darurat): Memungkinkan pemutusan daya dalam keadaan darurat untuk mematikan seluruh sistem dengan cepat. Terhubung langsung ke baterai dengan menerima input dari STM32.
 
-3. UBEC (Universal Battery Elimination Circuit): Mengatur tegangan dari baterai dan mengirimkannya ke servo.
-Koneksi: Menerima daya dari baterai dan menyuplai tegangan stabil ke servo.
+3. UBEC (Universal Battery Elimination Circuit): Mengatur tegangan dari baterai dan mengirimkannya ke servo. Menerima daya dari baterai dan menyuplai tegangan stabil ke servo.
 
-4. Servo: Mengendalikan arah kapal.
-Koneksi: Menerima tegangan dari UBEC dan sinyal kontrol dari microcontroller.
+4. Servo: Mengendalikan arah kapal.Menerima tegangan dari UBEC dan sinyal kontrol dari microcontroller.
 
 5. Buck Converter: Mengubah tegangan agar sesuai dengan receiver.
 
@@ -33,3 +30,9 @@ Koneksi: Menerima daya langsung dari baterai dan sinyal kontrol dari STM32 kemud
 Mecakup thermistor dan fan serta dapat juga water cooling yang terhubung ke STM32 kemudian tersambung dengan ESC.
 
 12. Transmitter: Pemberi sinyal kontrol kepada receiver. Dalam hal ini Transmitternya adalah remote control
+
+## Fuel Engine Remote Control Diagram
+### Electrical Diagram
+![FERC Electrical Diagram drawio](https://github.com/user-attachments/assets/6e45734b-9e71-4c4e-80f1-aff560ab3e63)
+### Communication Diagram
+![FERC Communication DIagram drawio](https://github.com/user-attachments/assets/d8974c97-9d6c-440a-847b-9740d89abc3b)
