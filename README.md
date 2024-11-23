@@ -15,7 +15,7 @@
 
 5. Buck Converter: Mengubah tegangan agar sesuai dengan receiver.
 
-6. Receiver: Menerima sinyal kontrol dari Transmitter dan mengirimkannya ke mikrokontroler (STM32).
+6. Receiver: Menerima sinyal kontrol dari Transmitter dan mengirimkannya ke STM32.
 
 7. Buck Boost Converter: Mengatur tegangan dari baterai ke level yang sesuai untuk STM32.
 
@@ -27,7 +27,7 @@ Menerima daya langsung dari baterai dan sinyal kontrol dari STM32 kemudian mengi
 10. Thruster: Motor pendorong yang menggerakkan kapal.
 
 11. Cooling System: Sistem pendingin yang menjaga suhu komponen tetap stabil selama operasi.
-Mecakup thermistor dan fan serta dapat juga water cooling yang terhubung ke STM32 kemudian tersambung dengan ESC.
+Mencakup thermistor dan fan serta dapat juga water cooling yang terhubung ke STM32 kemudian tersambung dengan ESC.
 
 12. Transmitter: Pemberi sinyal kontrol kepada receiver. Dalam hal ini Transmitternya adalah remote control.
 
@@ -61,7 +61,7 @@ Mecakup thermistor dan fan serta dapat juga water cooling yang terhubung ke STM3
 
 12. Buck Converter: Mengubah tegangan agar sesuai dengan receiver.
 
-13. Receiver: Menerima sinyal kontrol dari Transmitter dan mengirimkannya ke mikrokontroler (STM32).
+13. Receiver: Menerima sinyal kontrol dari Transmitter dan mengirimkannya ke STM32.
 
 14. Buck Boost Converter: Mengatur tegangan dari baterai ke level yang sesuai untuk STM32.
 
@@ -73,6 +73,6 @@ Menerima daya langsung dari baterai dan sinyal kontrol dari STM32 kemudian mengi
 17. Thruster: Motor pendorong yang menggerakkan kapal.
 
 18. Cooling System: Sistem pendingin yang menjaga suhu komponen tetap stabil selama operasi.
-Mecakup thermistor dan fan serta dapat juga water cooling yang terhubung ke STM32 kemudian tersambung dengan ESC dan engine.
+Mencakup thermistor dan fan serta dapat juga water cooling yang terhubung ke STM32 kemudian tersambung dengan ESC dan engine.
 
 19. Transmitter: Pemberi sinyal kontrol kepada receiver. Dalam hal ini Transmitternya adalah remote control.
