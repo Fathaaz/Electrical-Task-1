@@ -1,4 +1,4 @@
-# Electrical-Task-1
+# Electrical-Task
 
 | Nama  | Division        | Sub-Division  |
 | ----- | ---------- | ---------- |
