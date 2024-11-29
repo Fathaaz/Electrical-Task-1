@@ -91,7 +91,7 @@ Schematics diatas adalah schematics untuk boost converter. Boost converter digun
 
 ![Screenshot 2024-11-29 221930](https://github.com/user-attachments/assets/144b84ff-9b56-43cd-b28f-f10e0fbcf68b)
 
-![Screenshot 2024-11-29 213030](https://github.com/user-attachments/assets/ebe58e81-92db-4882-96d7-4328da8bb599)
+![image](https://github.com/user-attachments/assets/71919d6e-8589-4998-b7fd-d655dc2032cc)
 
 Kemudian berikut ini adalah gambaran 3dnya.
 
