@@ -89,7 +89,7 @@ Mencakup thermistor dan fan serta dapat juga water cooling yang terhubung ke STM
 
 Schematics diatas adalah schematics untuk boost converter. Boost converter digunakan untuk menaikkan tegangan, dimana output akan lebih besar daripada input. Dalam boost converter ini terdapat induktor untuk menyimpan energi ketika ic aktif dan akan melepaskannya ketika saklar pada ic tidak aktif. Capacitor digunakan untuk menyaring tegangan pada input dan output. Dioda digunakan untuk memastikan arus menuju output. Dalam boost converter ini digunakan IC LM2577. Di bawah ini adalah desain pcb beserta keterangan DRCnya.
 
-![Screenshot 2024-11-29 221930](https://github.com/user-attachments/assets/144b84ff-9b56-43cd-b28f-f10e0fbcf68b)
+![image](https://github.com/user-attachments/assets/c9a7b1cd-7816-4219-9faa-3eba143f6793)
 
 ![image](https://github.com/user-attachments/assets/71919d6e-8589-4998-b7fd-d655dc2032cc)
 
