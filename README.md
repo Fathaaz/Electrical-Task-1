@@ -93,7 +93,7 @@ Schematics diatas adalah schematics untuk boost converter. Boost converter digun
 
 ![image](https://github.com/user-attachments/assets/71919d6e-8589-4998-b7fd-d655dc2032cc)
 
-Kemudian berikut ini adalah gambaran 3dnya.
+Constraint yang digunakan dalam pcb ini adalah referensi constraint dari JLCPCB. Kemudian berikut ini adalah gambaran 3dnya.
 
 ![Screenshot 2024-11-29 221956](https://github.com/user-attachments/assets/fac39326-c1e0-4d4d-b480-1f2909e7e878)
 
