@@ -81,3 +81,21 @@ Menerima daya langsung dari baterai dan sinyal kontrol dari STM32 kemudian mengi
 Mencakup thermistor dan fan serta dapat juga water cooling yang terhubung ke STM32 kemudian tersambung dengan ESC dan engine.
 
 19. Transmitter: Pemberi sinyal kontrol kepada receiver. Dalam hal ini Transmitternya adalah remote control.
+
+## Boost Converter
+
+![Screenshot 2024-11-29 070122](https://github.com/user-attachments/assets/4db406d0-5111-4935-b6f7-76c7493914bb)
+
+
+Schematics diatas adalah schematics untuk boost converter. Boost converter digunakan untuk menaikkan tegangan, dimana output akan lebih besar daripada input. Dalam boost converter ini terdapat induktor untuk menyimpan energi ketika ic aktif dan akan melepaskannya ketika saklar pada ic tidak aktif. Capacitor digunakan untuk menyaring tegangan pada input dan output. Dioda digunakan untuk memastikan arus menuju output. Dalam boost converter ini digunakan IC LM2577. Di bawah ini adalah desain pcb beserta keterangan DRCnya.
+
+![Screenshot 2024-11-29 221930](https://github.com/user-attachments/assets/144b84ff-9b56-43cd-b28f-f10e0fbcf68b)
+
+![Screenshot 2024-11-29 213030](https://github.com/user-attachments/assets/ebe58e81-92db-4882-96d7-4328da8bb599)
+
+Kemudian berikut ini adalah gambaran 3dnya.
+
+![Screenshot 2024-11-29 221956](https://github.com/user-attachments/assets/fac39326-c1e0-4d4d-b480-1f2909e7e878)
+
+
+
